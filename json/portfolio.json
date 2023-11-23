@@ -6,7 +6,7 @@
       'url': 'https://limssong.github.io/stairsAngle/',
       'imgUrl': 'https://limssong.github.io/images/stairsAngle/triangle.png',
       'title': '계단 각도 구하기',
-      'desc': 'reactJS 이용하여 밑변과 높이값을 입력시 빗변과 밑변 사이각\n구하기',
+      'desc': 'reactJS 이용하여 밑변과 높이값을 입력시 빗변과 밑변 사이각 구하기',
       'skill': 'ReactJs / HTML / CSS',
       'target': '2023'
     },
