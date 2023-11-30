@@ -26,7 +26,7 @@
       'skill': 'HTML5 / CSS3 / Photoshop / j-query / SVN',
       'target': '2022'
     },
-    /*{
+    {
       'url': 'https://ppool.onstove.com/',
       'imgUrl': 'https://limssong.github.io/images/thumb/ppool.png',
       'title': '스마일게이트 스토브 - PPOOL',
@@ -225,6 +225,6 @@
       'desc': 'SK Communications 회사소개 페이지 UI개발',
       'skill': 'HTML / CSS / Photoshop',
       'target': '2009'
-    }, */
+    }, 
   ]
 }
