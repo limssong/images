@@ -43,7 +43,7 @@
       'target': '2021'
     },
     {
-      'url': '"http://www.findjob.co.kr/',
+      'url': 'http://www.findjob.co.kr/',
       'imgUrl': 'https://limssong.github.io/images/thumb/findjob.png',
       'title': '벼룩시장 - PC 메인',
       'desc': '구인구직 벼룩시장 PC 메인 UI개편',
