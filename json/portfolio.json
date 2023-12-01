@@ -2,6 +2,14 @@
   "result" : true,
   "myPortfolio" : 
   [
+    //{
+    //  "url": "https://choco.mirae-n.com/",
+    //  "imgUrl": "https://limssong.github.io/images/thumb/choco.png",
+    //  "title": "미래엔 초코 소개 사이트",
+    //  "desc": "미래엔 초코 소개 사이트",
+    //  "skill": "VueJs / HTML / CSS",
+    //  "target": "2023"
+    //},
     {
       "url": "https://limssong.github.io/stairsAngle/",
       "imgUrl": "https://limssong.github.io/images/stairsAngle/triangle.png",
