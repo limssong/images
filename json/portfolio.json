@@ -3,6 +3,14 @@
   "myPortfolio" : 
   [
     {
+      "url": "https://www.miraenchoco.com/",
+      "imgUrl": "https://limssong.github.io/images/thumb/choco.png",
+      "title": "미래엔 초코",
+      "desc": "Vue 환경에서 퍼블리싱",
+      "skill": "HTML5 / CSS3 / scss / Vue JS / Figma / Github",
+      "target": "2023"
+    },
+    {
       "url": "https://limssong.github.io/stairsAngle/",
       "imgUrl": "https://limssong.github.io/images/stairsAngle/triangle.png",
       "title": "계단 각도 구하기",
@@ -11,11 +19,19 @@
       "target": "2023"
     },
     {
+      "url": "https://choco.mirae-n.com/",
+      "imgUrl": "https://limssong.github.io/images/thumb/choco.png",
+      "title": "미래엔 초코 Intro",
+      "desc": "Vue 환경에서 페이지 전체 퍼블리싱 & 개발",
+      "skill": "HTML5 / CSS3 / CSS / VanilaJS / kakaotalk API / Figma / Github",
+      "target": "2023"
+    },
+    {
       "url": "https://www.balaan.co.kr/home",
       "imgUrl": "https://limssong.github.io/images/thumb/balaan.png",
       "title": "발란",
       "desc": "명품 커머스 발란 마크업 & FE개발",
-      "skill": "HTML5 / CSS3 / sass / nuxt.js / Vue JS / node / 제플린 / Github / bitbucket",
+      "skill": "HTML5 / CSS3 / scss / nuxt.js / Vue JS / node / 제플린 / Github / bitbucket",
       "target": "_blank"
     },
     {
