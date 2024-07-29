@@ -3,9 +3,17 @@
   "myPortfolio" : 
   [
     {
+      "url": "/",
+      "imgUrl": "https://limssong.github.io/images/thumb/skhynix.png",
+      "title": "하이닉스 Tech On 프로젝트",
+      "desc": "React JS 퍼블리셔로 투입되었으나 내부 사정상 JSP프로젝트로 변경",
+      "skill": "HTML5 / CSS3 / JSP / SVN / XD",
+      "target": "2024"
+    },
+    {
       "url": "https://shorturl.at/AEOVl",
       "imgUrl": "https://limssong.github.io/images/thumb/welstory.PNG",
-      "title": "삼성 웰스토리",
+      "title": "삼성 Welstory+ 부분 개편 프로젝트 퍼블리싱",
       "desc": "vue 환경에서 더미 데이터 바인딩 포함 vue 마크업 컴포넌트화 작업",
       "skill": "HTML5 / CSS3 / Vue JS / Zeplin / Bitbucket / chart JS",
       "target": "2024"
