@@ -3,8 +3,16 @@
   "myPortfolio" : 
   [
     {
+      "url": "https://shorturl.at/AEOVl",
+      "imgUrl": "https://limssong.github.io/images/thumb/welstory.PNG",
+      "title": "삼성 웰스토리",
+      "desc": "vue 환경에서 더미 데이터 바인딩 포함 vue 마크업 컴포넌트화 작업",
+      "skill": "HTML5 / CSS3 / Vue JS / Zeplin / Bitbucket / chart JS",
+      "target": "2024"
+    },
+    {
       "url": "https://www.miraenchoco.com/",
-      "imgUrl": "https://limssong.github.io/images/thumb/choco.png",
+      "imgUrl": "https://limssong.github.io/images/thumb/choco2.png",
       "title": "미래엔 초코",
       "desc": "Vue 환경에서 퍼블리싱",
       "skill": "HTML5 / CSS3 / scss / Vue JS / Figma / Github",
