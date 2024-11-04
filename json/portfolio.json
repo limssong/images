@@ -5,18 +5,29 @@
     {
       "url": "/",
       "imgUrl": "https://limssong.github.io/images/thumb/skhynix.png",
+      "title": "한화 그룹 HR 커스터마이징 프로젝트",
+      "desc": "Vue 2.0 & Vuetify 사용 ~ 2024.10.21",
+      "skill": "HTML5 / CSS3 / Vue / Vuetify / git / figma",
+      "target": "2024",
+      "date": "2024.08.12 ~ 2024.10.21",
+    },
+    {
+      "url": "/",
+      "imgUrl": "https://limssong.github.io/images/thumb/skhynix.png",
       "title": "하이닉스 Tech On 프로젝트",
-      "desc": "React JS 퍼블리셔로 투입되었으나 내부 사정상 JSP 프로젝트로 변경",
+      "desc": "React JS 퍼블리셔로 투입되었으나 내부 사정상 JSP 프로젝트로 변경 ~ 2024.07.31",
       "skill": "HTML5 / CSS3 / JSP / SVN / XD",
-      "target": "2024"
+      "target": "2024",
+      "date": "2024.06.03 ~ 2024.07.31",
     },
     {
       "url": "https://shorturl.at/AEOVl",
       "imgUrl": "https://limssong.github.io/images/thumb/welstory.png",
       "title": "삼성 Welstory+ 부분 개편 프로젝트 퍼블리싱",
-      "desc": "vue 환경에서 더미 데이터 바인딩 포함 vue 마크업 컴포넌트화 작업",
+      "desc": "vue 환경에서 더미 데이터 바인딩 포함 vue 마크업 컴포넌트화 작업 ~ 2024.05.31",
       "skill": "HTML5 / CSS3 / Vue JS / Zeplin / Bitbucket / chart JS",
-      "target": "2024"
+      "target": "2024",
+      "date": "2024.03.05 ~ 2024.05.31",
     },
     {
       "url": "https://www.miraenchoco.com/",
@@ -24,7 +35,8 @@
       "title": "미래엔 초코",
       "desc": "Vue 환경에서 퍼블리싱",
       "skill": "HTML5 / CSS3 / scss / Vue JS / Figma / Github",
-      "target": "2023"
+      "target": "2024",
+      "date": "2023.10.10 ~ 2024.02.29",
     },
     {
       "url": "https://limssong.github.io/stairsAngle/",
@@ -32,7 +44,7 @@
       "title": "계단 각도 구하기",
       "desc": "ReactJS 이용하여 밑변과 높이값을 입력시 빗변과 밑변 사이각 구하기",
       "skill": "ReactJs / HTML / CSS",
-      "target": "2023"
+      "target": "2023",
     },
     {
       "url": "https://choco.mirae-n.com/",
@@ -40,7 +52,8 @@
       "title": "미래엔 초코 Intro",
       "desc": "Vue 환경에서 페이지 전체 퍼블리싱 & 개발",
       "skill": "HTML5 / CSS3 / CSS / VanilaJS / kakaotalk API / Figma / Github",
-      "target": "2023"
+      "target": "2023",
+      "date": "2023.10.10 ~ 2024.02.29",
     },
     {
       "url": "https://www.balaan.co.kr/home",
@@ -48,7 +61,8 @@
       "title": "발란",
       "desc": "명품 커머스 발란 마크업 & FE개발",
       "skill": "HTML5 / CSS3 / scss / nuxt.js / Vue JS / node / 제플린 / Github / bitbucket",
-      "target": "_blank"
+      "target": "_blank",
+      "date": "2022.04.04 ~ 2023.09.31",
     },
     {
       "url": "https://abcmart.a-rt.com/",
@@ -56,7 +70,7 @@
       "title": "ABC마트",
       "desc": "ABC마트 퍼블리싱",
       "skill": "HTML5 / CSS3 / Photoshop / j-query / SVN",
-      "target": "2022"
+      "target": "2022",
     },
     {
       "url": "https://ppool.onstove.com/",
@@ -64,7 +78,7 @@
       "title": "스마일게이트 스토브 - PPOOL",
       "desc": "다중 화상 대화 플랫폼 ppool 마크업 개발",
       "skill": "sass / nuxt.js / Vue JS / node / 제플린 / Github",
-      "target": "2021"
+      "target": "2021",
     },
     {
       "url": "http://m.findjob.co.kr/",
@@ -72,7 +86,7 @@
       "title": "벼룩시장 - 모바일 메인",
       "desc": "구인구직 벼룩시장 모바일 메인 UI개편",
       "skill": "HTML5 / CSS3 / Javascript / Jquery",
-      "target": "2021"
+      "target": "2021",
     },
     {
       "url": "http://www.findjob.co.kr/",
@@ -80,7 +94,7 @@
       "title": "벼룩시장 - PC 메인",
       "desc": "구인구직 벼룩시장 PC 메인 UI개편",
       "skill": "HTML5 / CSS3 / Javascript / Jquery",
-      "target": "2021"
+      "target": "2021",
     },
     {
       "url": "http://m.findjob.co.kr/JobGuide/",
@@ -88,7 +102,7 @@
       "title": "벼룩시장 - 모바일 취업가이드",
       "desc": "구인구직 벼룩시장 모바일 취업가이드 UI개편",
       "skill": "HTML5 / CSS3 / Javascript / Jquery",
-      "target": "2021"
+      "target": "2021",
     },
     {
       "url": "https://coachingacademy.golfzon.com/",
@@ -96,7 +110,7 @@
       "title": "골프존 - ACADEMY",
       "desc": "골프존 코칭 아카데미 웹 / 모바일 UI개발",
       "skill": "HTML5 / CSS3 / Vue JS / angularJs / node / 제플린 / Github / SVN",
-      "target": "2020"
+      "target": "2020",
     },
     {
       "url": "http://m.golfzon.com/",
@@ -104,7 +118,7 @@
       "title": "골프존 - 모바일 GS",
       "desc": "골프존 모바일 GS 운영",
       "skill": "HTML5 / CSS3 / Vue JS / angularJs / node / 제플린 / Github / SVN",
-      "target": "2019"
+      "target": "2019",
     },
     {
       "url": "https://gdracademy.com/",
@@ -112,7 +126,7 @@
       "title": "골프존 - 모바일 GDR",
       "desc": "골프존 모바일 GDR 운영",
       "skill": "HTML5 / CSS3 / Vue JS / angularJs / node / 제플린 / Github / SVN",
-      "target": "2019"
+      "target": "2019",
     },
     {
       "url": "http://limssong84.mireene.com/inchi13/html/home.html",
@@ -120,7 +134,7 @@
       "title": "칸그림 - 13인치 모바일",
       "desc": "13인치 자체 서비스 13인치 UI개발",
       "skill": "HTML5 / CSS3 / Jquery",
-      "target": "2018"
+      "target": "2018",
     },
     {
       "url": "http://limssong84.mireene.com/korea-flag/korea-flag.html",
@@ -128,7 +142,7 @@
       "title": "태극기",
       "desc": "HTML / CSS 로 제작한 태극기 - 2018.02.25",
       "skill": "HTML5 / CSS3",
-      "target": "2018"
+      "target": "2018",
     },
     {
       "url": "https://display.cjonstyle.com/p/homeTab/main?hmtabMenuId=003147&rPIC=homeonstyle",
@@ -136,7 +150,7 @@
       "title": "CJ mall 내 UI개발",
       "desc": "CJ 오쇼핑",
       "skill": "HTML5 / sass",
-      "target": "2017"
+      "target": "2017",
     },
     {
       "url": "https://limssong.github.io/portfolio1/hobbyful/html/main.html",
@@ -144,7 +158,7 @@
       "title": "코드크레프트 - 하비풀",
       "desc": "취미를 쉽게 배우는 hobbyful",
       "skill": "HTML5 / CSS3 / Javascript",
-      "target": "2017"
+      "target": "2017",
     },
     {
       "url": "http://limssong84.mireene.com/loungef/html/home_new.html",
@@ -152,7 +166,8 @@
       "title": "뷰리플 - LOUNGE.F",
       "desc": "입어보고 구매하는 편집샵 LOUNGE.F UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
-      "target": "2015"
+      "target": "2015",
+      "date": "2012.12.02 ~ 2015.08.31",
     },
     {
       "url": "http://limssong84.mireene.com/selleradmin/html/login.html",
@@ -160,7 +175,8 @@
       "title": "라운지에프 어드민",
       "desc": "입어보고 구매하는 편집샵 라운지에프 어드민 UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
-      "target": "2015"
+      "target": "2015",
+      "date": "2012.12.02 ~ 2015.08.31",
     },
     {
       "url": "http://limssong84.mireene.com/socialVoting/html/index.html",
@@ -168,7 +184,8 @@
       "title": "소셜보팅 UI개발",
       "desc": "사용자로 하여금 A vs B 상품을 투표하여 소비자 반응도 조사하고 쿠폰발급으로 구매까지 독려하는 카페24 앱 UI개발. 유료앱으로 런칭하였으나 대 실패",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
-      "target": "2014"
+      "target": "2014",
+      "date": "2012.12.02 ~ 2015.08.31",
     },
     {
       "url": "http://limssong84.mireene.com/socialreview/html/socialReview.html",
@@ -176,7 +193,8 @@
       "title": "소셜리뷰 UI개발",
       "desc": "리뷰 작성 도구인 소셜리뷰 UI개발. 어느 사이트나 쉽게 삽입하여 리뷰작성할 수 있도록 도와주는 툴. 당시 카페24 무료앱 탑3",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
-      "target": "2014"
+      "target": "2014",
+      "date": "2012.12.02 ~ 2015.08.31",
     },
     {
       "url": "http://limssong84.mireene.com/newviewreple/html/home.html",
@@ -184,7 +202,8 @@
       "title": "뷰리플 리뉴얼 2차",
       "desc": "리뷰 모아보는 사이트 뷰리플 UI개발. 미디어쿼리 사용으로 웹 / 모바일 대응",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
-      "target": "2013"
+      "target": "2013",
+      "date": "2012.12.02 ~ 2015.08.31",
     },
     {
       "url": "http://limssong84.mireene.com/company/html/company_about.html",
@@ -192,7 +211,8 @@
       "title": "뷰리플 회사홈페이지",
       "desc": "뷰리플 회사홈페이지 UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
-      "target": "2013"
+      "target": "2013",
+      "date": "2012.12.02 ~ 2015.08.31",
     },
     {
       "url": "http://limssong84.mireene.com/viewreple/html/main_renewal_m.html",
@@ -200,7 +220,8 @@
       "title": "뷰리플 리뉴얼 1차",
       "desc": "[모바일] 리뷰 모아보는 사이트 뷰리플 UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
-      "target": "2013"
+      "target": "2013",
+      "date": "2012.12.02 ~ 2015.08.31",
     },
     {
       "url": "http://limssong84.mireene.com/viewreple/html/main_renewal.html",
@@ -208,7 +229,8 @@
       "title": "뷰리플 리뉴얼 1차",
       "desc": "[웹] 리뷰 모아보는 사이트 뷰리플 UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
-      "target": "2013"
+      "target": "2013",
+      "date": "2012.12.02 ~ 2015.08.31",
     },
     {
       "url": "http://limssong84.mireene.com/easyCall/index.html",
@@ -216,7 +238,7 @@
       "title": "EasyCall 개발",
       "desc": "개인적으로 제작해본 쉽게 전화걸기 웹앱",
       "skill": "HTML5 / CSS3 / JqueryMobile",
-      "target": "2012"
+      "target": "2012",
     },
     {
       "url": "http://goo.gl/svQ6gu",
@@ -224,7 +246,8 @@
       "title": "네이트 검색면 컨텐츠 토픽 UI개발",
       "desc": "단위환산 / 환율 / 계산기 / 증권 / 해외증시 / 올림픽 토픽 UI개발. 2012.04 총선 토픽 UI개발 :  선거구 찾기 지도 서비스 포함된 총선 토픽 UI개발",
       "skill": "HTML / CSS / Photoshop",
-      "target": "2012"
+      "target": "2012",
+      "date": "2009.02.16 ~ 2012.10.31",
     },
     {
       "url": "https://keywordshop.nate.com/",
@@ -232,7 +255,8 @@
       "title": "NATE 소셜광고",
       "desc": "소셜광고 UI개발",
       "skill": "HTML / CSS / Photoshop",
-      "target": "2010"
+      "target": "2010",
+      "date": "2009.02.16 ~ 2012.10.31",
     },
     {
       "url": "http://adguide.nate.com/",
@@ -240,7 +264,8 @@
       "title": "NATE DA광고",
       "desc": "DA광고 UI개발",
       "skill": "HTML / CSS / Photoshop",
-      "target": "2010"
+      "target": "2010",
+      "date": "2009.02.16 ~ 2012.10.31",
     },
     {
       "url": "http://www.skcomms.co.kr/",
@@ -248,7 +273,8 @@
       "title": "SK Communications 회사소개 페이지",
       "desc": "SK Communications 회사소개 페이지 UI개발",
       "skill": "HTML / CSS / Photoshop",
-      "target": "2009"
+      "target": "2009",
+      "date": "2009.02.16 ~ 2012.10.31",
     },
     {
       "url": "#",
@@ -256,7 +282,8 @@
       "title": "네이트 회원빌링 UI개발",
       "desc": "네이트 회원빌링 UI개발. 서비스 종료로 포트폴리오 없음.",
       "skill": "HTML / CSS / Photoshop",
-      "target": "2011"
+      "target": "2011",
+      "date": "2009.02.16 ~ 2012.10.31",
     },
     {
       "url": "#",
@@ -264,7 +291,8 @@
       "title": "사이좋은 세상 UI개발",
       "desc": "사이좋은 세상 UI개발. 서비스 종료로 포트폴리오 없음.",
       "skill": "HTML / CSS / Photoshop",
-      "target": "2011"
+      "target": "2011",
+      "date": "2009.02.16 ~ 2012.10.31",
     },
     {
       "url": "http://fifanet.kr/",
