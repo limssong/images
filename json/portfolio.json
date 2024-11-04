@@ -4,7 +4,7 @@
   [
     {
       "url": "/",
-      "imgUrl": "https://limssong.github.io/images/thumb/skhynix.png",
+      "imgUrl": "https://limssong.github.io/images/thumb/hw-hr.png",
       "title": "한화 그룹 HR 커스터마이징 프로젝트",
       "desc": "Vue 2.0 & Vuetify 사용 ~ 2024.10.21",
       "skill": "HTML5 / CSS3 / Vue / Vuetify / git / figma",
@@ -300,7 +300,7 @@
       "title": "피파온라인3 정보공유",
       "desc": "피파온라인3 정보공유 웹/모바일 UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
-      "target": "2016"
+      "target": "2016",
     }
   ]
 }
