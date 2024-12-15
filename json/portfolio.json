@@ -3,10 +3,19 @@
   "myPortfolio" : 
   [
     {
+      "url": "https://ai.ebs.co.kr/",
+      "imgUrl": "https://limssong.github.io/images/thumb/hw-hr.png",
+      "title": "EBS AI 단추 고도화",
+      "desc": "EBS AI 단추 고도화 프로젝트 진행중.",
+      "skill": "Html5 / javascript / SCSS / Gulp / Figma",
+      "date": "2024.11.04 ~ 2025.01.17",
+      "target": "2025"
+    },
+    {
       "url": "/",
       "imgUrl": "https://limssong.github.io/images/thumb/hw-hr.png",
       "title": "한화 그룹 HR 구축 프로젝트",
-      "desc": "한화 HR 커스터마이징 프로젝트. Vue 2.0, Vuetify 사용",
+      "desc": "한화 HR 커스터마이징 프로젝트. Vue 2.0, Vuetify 사용. 사내 보안으로 인해 산출물 없음",
       "skill": "Vue / Vuetify / HTML5 / SCSS / Git / Figma",
       "date": "2024.08.12 ~ 2024.10.21",
       "target": "2024"
@@ -15,7 +24,7 @@
       "url": "/",
       "imgUrl": "https://limssong.github.io/images/thumb/skhynix.png",
       "title": "하이닉스 Tech On 프로젝트",
-      "desc": "React JS 퍼블리셔로 투입되었으나 내부 사정상 JSP 프로젝트로 변경",
+      "desc": "React JS 퍼블리셔로 투입되었으나 내부 사정상 JSP 프로젝트로 변경.  사내 보안으로 인해 산출물 없음",
       "skill": "HTML5 / CSS3 / JSP / SVN / XD",
       "date": "2024.06.03 ~ 2024.07.31",
       "target": "2024"
