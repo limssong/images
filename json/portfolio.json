@@ -3,12 +3,21 @@
   "myPortfolio" : 
   [
     {
+      "url": "/",
+      "imgUrl": "https://limssong.github.io/images/thumb/aidt.png",
+      "title": "천재교육 AIDT",
+      "desc": "천재교육 AI 디지털 교과서 프로젝트",
+      "skill": "Html5 / vue3 / SCSS / PrimeVue / Figma / Git",
+      "date": "2025.03.04 ~ 현재",
+      "target": "2025"
+    },
+    {
       "url": "https://ai.ebs.co.kr/",
       "imgUrl": "https://limssong.github.io/images/thumb/ebsai.png",
       "title": "EBS AI 단추 고도화",
-      "desc": "EBS AI 단추 고도화 프로젝트 진행중.",
+      "desc": "EBS AI 단추 고도화 프로젝트",
       "skill": "Html5 / javascript / SCSS / Gulp / Figma",
-      "date": "2024.11.04 ~ 2025.02.14",
+      "date": "2024.11.04 ~ 2025.02.28",
       "target": "2025"
     },
     {
