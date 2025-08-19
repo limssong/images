@@ -4,11 +4,11 @@
   [
     {
       "url": "https://limssong.github.io/omok/",
-      "imgUrl": "https://limssong.github.io/images/thumb/aidt.png",
+      "imgUrl": "/",
       "title": "오목",
       "desc": "바이브 코딩으로 만든 오목",
       "skill": "Html5 / vue3 / SCSS / Git",
-      "date": "2025.08.19 ~ 현재",
+      "date": "2025.08.19",
       "target": "2025"
     },
     {
