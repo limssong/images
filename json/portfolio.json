@@ -3,11 +3,20 @@
   "myPortfolio" : 
   [
     {
+      "url": "https://limssong.github.io/janggi/",
+      "imgUrl": "https://limssong.github.io/images/thumb/janggi.png",
+      "title": "장기 게ㅁ",
+      "desc": "바이브 코딩으로 만든 장기 게임",
+      "skill": "Html5 / vue3 / SCSS / nuxt / bootstrap",
+      "date": "2025.08.24",
+      "target": "2025"
+    },
+    {
       "url": "https://limssong.github.io/psy-test/",
       "imgUrl": "https://limssong.github.io/images/thumb/psy-test.png",
       "title": "심리테스트",
       "desc": "바이브 코딩으로 만든 심리테스트",
-      "skill": "Html5 / vue3 / SCSS / Git",
+      "skill": "Html5 / vue3 / SCSS / nuxt / bootstrap",
       "date": "2025.08.24",
       "target": "2025"
     },
@@ -16,7 +25,7 @@
       "imgUrl": "https://limssong.github.io/images/thumb/omok.png",
       "title": "오목",
       "desc": "바이브 코딩으로 만든 오목",
-      "skill": "Html5 / vue3 / SCSS / Git",
+      "skill": "Html5 / vue3 / SCSS / nuxt / bootstrap",
       "date": "2025.08.23",
       "target": "2025"
     },
