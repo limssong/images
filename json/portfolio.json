@@ -2,15 +2,15 @@
   "result" : true,
   "myPortfolio" : 
   [
-    // {
-    //   "url": "https://limssong.github.io/psy-test/",
-    //   "imgUrl": "https://limssong.github.io/images/thumb/psy-test.png",
-    //   "title": "심리테스트",
-    //   "desc": "바이브 코딩으로 만든 심리테스트",
-    //   "skill": "Html5 / vue3 / SCSS / Git",
-    //   "date": "2025.08.25",
-    //   "target": "2025"
-    // },
+    {
+      "url": "https://limssong.github.io/psy-test/",
+      "imgUrl": "https://limssong.github.io/images/thumb/psy-test.png",
+      "title": "심리테스트",
+      "desc": "바이브 코딩으로 만든 심리테스트",
+      "skill": "Html5 / vue3 / SCSS / Git",
+      "date": "2025.08.25",
+      "target": "2025"
+    },
     {
       "url": "https://limssong.github.io/omok/",
       "imgUrl": "https://limssong.github.io/images/thumb/omok.png",
