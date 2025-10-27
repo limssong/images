@@ -3,6 +3,15 @@
   "myPortfolio" : 
   [
     {
+      "url": "https://limssong.github.io/saju-lotto/",
+      "imgUrl": "https://limssong.github.io/images/thumb/saju-lotto.png",
+      "title": "사주 & 로또",
+      "desc": "바이브 코딩으로 만든 사주보기와 사주에 따른 로또번호 추천 서비스",
+      "skill": "Html5 / ReactJs / SCSS / next",
+      "date": "2025.10.24",
+      "target": "2025"
+    },
+    {
       "url": "https://limssong.github.io/janggi/",
       "imgUrl": "https://limssong.github.io/images/thumb/janggi.png",
       "title": "장기 게임",
@@ -361,3 +370,4 @@
     }
   ]
 }
+
