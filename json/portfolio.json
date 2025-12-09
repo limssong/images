@@ -3,6 +3,15 @@
   "myPortfolio" : 
   [
     {
+      "url": "https://m.multicampus.com/",
+      "imgUrl": "https://limssong.github.io/images/thumb/multicampus.png",
+      "title": "삼성SDS 멀티캠퍼스",
+      "desc": "멀티캠퍼스 KDT프로젝트",
+      "skill": "Html5 / VueJs / CSS / Figma / Git",
+      "date": "2025.09.01 ~ 2025.12.31",
+      "target": "2025"
+    },
+    {
       "url": "https://limssong.github.io/saju-lotto/",
       "imgUrl": "https://limssong.github.io/images/thumb/saju-lotto.png",
       "title": "사주 & 로또",
@@ -44,7 +53,7 @@
       "title": "천재교육 AIDT",
       "desc": "천재교육 AI 디지털 교과서 프로젝트",
       "skill": "Html5 / vue3 / SCSS / PrimeVue / Figma / Git",
-      "date": "2025.03.04 ~ 현재",
+      "date": "2025.03.04 ~ 2025.08.31",
       "target": "2025"
     },
     {
@@ -370,4 +379,5 @@
     }
   ]
 }
+
 
