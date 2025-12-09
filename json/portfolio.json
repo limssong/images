@@ -48,7 +48,7 @@
       "target": "2025"
     },
     {
-      "url": "/",
+      "url": "https://support.aitextbook.co.kr/",
       "imgUrl": "https://limssong.github.io/images/thumb/aidt.png",
       "title": "천재교육 AIDT",
       "desc": "천재교육 AI 디지털 교과서 프로젝트",
@@ -379,5 +379,6 @@
     }
   ]
 }
+
 
 
