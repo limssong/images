@@ -3,6 +3,15 @@
   "myPortfolio" : 
   [
     {
+      "url": "https://limssong.github.io/randompay/",
+      "imgUrl": "https://limssong.github.io/images/thumb/randompay.png",
+      "title": "랜덤 결제 서비스",
+      "desc": "정확하게 1/N이 아닌 랜덤한 금액 배분 서비스",
+      "skill": "Html5 / ReactJs / SCSS / next",
+      "date": "2026.02.13",
+      "target": "2026"
+    },
+    {
       "url": "https://limssong.github.io/FamilyAlbum/",
       "imgUrl": "https://limssong.github.io/images/thumb/family-album.png",
       "title": "가족사진 기록 앨범",
