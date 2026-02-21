@@ -3,6 +3,15 @@
   "myPortfolio" : 
   [
     {
+      "url": "https://limssong.github.io/marathon/",
+      "imgUrl": "https://limssong.github.io/images/thumb/marathon.png",
+      "title": "마라톤 일정 공유",
+      "desc": "국내 마라톤 일정 공유 서비스",
+      "skill": "Html5 / ReactJs / shacnd / next",
+      "date": "2026.02.21",
+      "target": "2026"
+    },
+    {
       "url": "https://limssong.github.io/randompay/",
       "imgUrl": "https://limssong.github.io/images/thumb/randompay.png",
       "title": "랜덤 결제 서비스",
