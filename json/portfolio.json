@@ -12,8 +12,8 @@
       "target": "2026"
     },
     {
-      "url": "https://limssong.github.io/holdome/",
-      "imgUrl": "https://limssong.github.io/images/thumb/holdome.png",
+      "url": "https://limssong.github.io/holdem/",
+      "imgUrl": "https://limssong.github.io/images/thumb/holdem.png",
       "title": "홀덤 게임",
       "desc": "세븐포커 홀덤 게임",
       "skill": "Html5 / ReactJs / next",
