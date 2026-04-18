@@ -3,13 +3,24 @@
   "myPortfolio" : 
   [
     {
+      "url": "https://with-ten.vercel.app/",
+      "imgUrl": "https://limssong.github.io/images/thumb/with.png",
+      "title": "함께 뛰는 러닝 With",
+      "desc": "함께 뛰는 러닝 With 서비스",
+      "skill": "claudeCode / Vercel",
+      "date": "2026.04.18",
+      "target": "2026",
+      "noneCode": false
+    },
+    {
       "url": "https://limssong.github.io/koreakings/",
       "imgUrl": "https://limssong.github.io/images/thumb/koreakings.png",
       "title": "조선왕조 가계도",
       "desc": "조선왕조 가계도 검색 서비스",
       "skill": "Html5 / ReactJs / next / shadcn",
       "date": "2026.03.02",
-      "target": "2026"
+      "target": "2026",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/blackwhite/",
@@ -18,7 +29,8 @@
       "desc": "더 지니어스 게임의 데스매치 게임중 하나인 흑과백 게임",
       "skill": "Html5 / ReactJs / next",
       "date": "2026.02.28",
-      "target": "2026"
+      "target": "2026",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/marathon/",
@@ -27,7 +39,8 @@
       "desc": "국내 마라톤 일정 공유 서비스",
       "skill": "Html5 / ReactJs / shacnd / next",
       "date": "2026.02.21",
-      "target": "2026"
+      "target": "2026",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/holdem/",
@@ -36,7 +49,8 @@
       "desc": "세븐포커 홀덤 게임",
       "skill": "Html5 / ReactJs / next",
       "date": "2026.02.18",
-      "target": "2026"
+      "target": "2026",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/randompay/",
@@ -45,7 +59,8 @@
       "desc": "정확하게 1/N이 아닌 랜덤한 금액 배분 서비스",
       "skill": "Html5 / ReactJs / SCSS / next",
       "date": "2026.02.13",
-      "target": "2026"
+      "target": "2026",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/FamilyAlbum/",
@@ -54,7 +69,8 @@
       "desc": "리마인더 가능한 가족사진 기록 앨범 서비스",
       "skill": "Html5 / ReactJs / SCSS / next / tailwind / firebase",
       "date": "2026.02.07",
-      "target": "2026"
+      "target": "2026",
+      "noneCode": false
     },
     {
       "url": "https://bootcamp.multicampus.com/",
@@ -63,7 +79,8 @@
       "desc": "멀티캠퍼스 KDT프로젝트",
       "skill": "Html5 / VueJs / CSS / Figma / Git",
       "date": "2025.09.01 ~ 2026.02.06",
-      "target": "2025"
+      "target": "2025",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/saju-lotto/",
@@ -72,7 +89,8 @@
       "desc": "바이브 코딩으로 만든 사주보기와 사주에 따른 로또번호 추천 서비스",
       "skill": "Html5 / ReactJs / SCSS / next",
       "date": "2025.10.24",
-      "target": "2025"
+      "target": "2025",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/janggi/",
@@ -81,7 +99,8 @@
       "desc": "바이브 코딩으로 만든 장기 게임",
       "skill": "Html5 / vue3 / SCSS / nuxt / bootstrap",
       "date": "2025.08.24",
-      "target": "2025"
+      "target": "2025",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/psy-test/",
@@ -90,7 +109,8 @@
       "desc": "바이브 코딩으로 만든 심리테스트",
       "skill": "Html5 / vue3 / SCSS / nuxt / bootstrap",
       "date": "2025.08.24",
-      "target": "2025"
+      "target": "2025",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/omok/",
@@ -99,7 +119,8 @@
       "desc": "바이브 코딩으로 만든 오목",
       "skill": "Html5 / vue3 / SCSS / nuxt / bootstrap",
       "date": "2025.08.23",
-      "target": "2025"
+      "target": "2025",
+      "noneCode": false
     },
     {
       "url": "https://support.aitextbook.co.kr/",
@@ -108,7 +129,8 @@
       "desc": "천재교육 AI 디지털 교과서 프로젝트",
       "skill": "Html5 / vue3 / SCSS / PrimeVue / Figma / Git",
       "date": "2025.03.04 ~ 2025.08.31",
-      "target": "2025"
+      "target": "2025",
+      "noneCode": false
     },
     {
       "url": "https://ai.ebs.co.kr/",
@@ -117,7 +139,8 @@
       "desc": "EBS AI 단추 고도화 프로젝트",
       "skill": "Html5 / javascript / SCSS / Gulp / Figma",
       "date": "2024.11.04 ~ 2025.02.28",
-      "target": "2025"
+      "target": "2025",
+      "noneCode": false
     },
     {
       "url": "/",
@@ -126,7 +149,8 @@
       "desc": "한화 HR 커스터마이징 프로젝트. Vue 2.0, Vuetify 사용. 사내 보안으로 인해 산출물 없음",
       "skill": "Vue / Vuetify / HTML5 / SCSS / Git / Figma",
       "date": "2024.08.12 ~ 2024.10.21",
-      "target": "2024"
+      "target": "2024",
+      "noneCode": false
     },
     {
       "url": "/",
@@ -135,7 +159,8 @@
       "desc": "React JS 퍼블리셔로 투입되었으나 내부 사정상 JSP 프로젝트로 변경.  사내 보안으로 인해 산출물 없음",
       "skill": "HTML5 / CSS3 / JSP / SVN / XD",
       "date": "2024.06.03 ~ 2024.07.31",
-      "target": "2024"
+      "target": "2024",
+      "noneCode": false
     },
     {
       "url": "https://shorturl.at/AEOVl",
@@ -144,7 +169,8 @@
       "desc": "vue 환경에서 더미 데이터 바인딩 포함 vue 마크업 컴포넌트화 작업",
       "skill": "HTML5 / CSS3 / Vue JS / Zeplin / Bitbucket / chart JS",
       "date": "2024.03.04 ~ 2024.05.31",
-      "target": "2024"
+      "target": "2024",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/stairsAngle/",
@@ -153,7 +179,8 @@
       "desc": "ReactJS 이용하여 밑변과 높이값을 입력시 빗변과 밑변 사이각 구하기",
       "skill": "ReactJs / HTML / CSS",
       "date": "2023.11.14",
-      "target": "2023"
+      "target": "2023",
+      "noneCode": false
     },
     {
       "url": "https://www.miraenchoco.com/",
@@ -162,7 +189,8 @@
       "desc": "Vue 환경에서 퍼블리싱",
       "skill": "HTML5 / CSS3 / scss / Vue JS / Figma / Github",
       "date": "2023.10.10 ~ 2024.02.29",
-      "target": "2023"
+      "target": "2023",
+      "noneCode": false
     },
     {
       "url": "https://choco.mirae-n.com/",
@@ -171,7 +199,8 @@
       "desc": "Vue 환경에서 페이지 전체 퍼블리싱 & 개발",
       "skill": "HTML5 / CSS3 / CSS / VanilaJS / kakaotalk API / Figma / Github",
       "date": "2023.10.10 ~ 2024.02.29",
-      "target": "2023"
+      "target": "2023",
+      "noneCode": false
     },
     {
       "url": "https://www.balaan.co.kr/home",
@@ -180,7 +209,8 @@
       "desc": "명품 커머스 발란 마크업 & FE개발",
       "skill": "HTML5 / CSS3 / scss / nuxt.js / Vue JS / node / 제플린 / Github / bitbucket",
       "date": "2022.04.04 ~ 2023.09.30",
-      "target": "_blank"
+      "target": "_blank",
+      "noneCode": false
     },
     {
       "url": "https://abcmart.a-rt.com/",
@@ -189,7 +219,8 @@
       "desc": "ABC마트 퍼블리싱",
       "skill": "HTML5 / CSS3 / Photoshop / j-query / SVN",
       "date": "2022.11 ~ 2023.01",
-      "target": "2022"
+      "target": "2022",
+      "noneCode": false
     },
     {
       "url": "https://ppool.onstove.com/",
@@ -198,7 +229,8 @@
       "desc": "다중 화상 대화 플랫폼 ppool 마크업 개발",
       "skill": "sass / nuxt.js / Vue JS / node / 제플린 / Github",
       "date": "2021.05 ~ 2021.10",
-      "target": "2021"
+      "target": "2021",
+      "noneCode": false
     },
     {
       "url": "http://m.findjob.co.kr/",
@@ -207,7 +239,8 @@
       "desc": "구인구직 벼룩시장 모바일 메인 UI개편",
       "skill": "HTML5 / CSS3 / Javascript / Jquery",
       "date": "2021.03 ~ 2021.04",
-      "target": "2021"
+      "target": "2021",
+      "noneCode": false
     },
     {
       "url": "http://www.findjob.co.kr/",
@@ -216,7 +249,8 @@
       "desc": "구인구직 벼룩시장 PC 메인 UI개편",
       "skill": "HTML5 / CSS3 / Javascript / Jquery",
       "date": "2021.03 ~ 2021.04",
-      "target": "2021"
+      "target": "2021",
+      "noneCode": false
     },
     {
       "url": "http://m.findjob.co.kr/JobGuide/",
@@ -225,7 +259,8 @@
       "desc": "구인구직 벼룩시장 모바일 취업가이드 UI개편",
       "skill": "HTML5 / CSS3 / Javascript / Jquery",
       "date": "2021.03 ~ 2021.04",
-      "target": "2021"
+      "target": "2021",
+      "noneCode": false
     },
     {
       "url": "https://coachingacademy.golfzon.com/",
@@ -234,7 +269,8 @@
       "desc": "골프존 코칭 아카데미 웹 / 모바일 UI개발",
       "skill": "HTML5 / CSS3 / Vue JS / angularJs / node / 제플린 / Github / SVN",
       "date": "2018.10 ~ 2021.01",
-      "target": "2020"
+      "target": "2020",
+      "noneCode": false
     },
     {
       "url": "http://m.golfzon.com/",
@@ -243,7 +279,8 @@
       "desc": "골프존 모바일 GS 운영",
       "skill": "HTML5 / CSS3 / Vue JS / angularJs / node / 제플린 / Github / SVN",
       "date": "2018.10 ~ 2021.01",
-      "target": "2019"
+      "target": "2019",
+      "noneCode": false
     },
     {
       "url": "https://gdracademy.com/",
@@ -252,7 +289,8 @@
       "desc": "골프존 모바일 GDR 운영",
       "skill": "HTML5 / CSS3 / Vue JS / angularJs / node / 제플린 / Github / SVN",
       "date": "2018.10 ~ 2021.01",
-      "target": "2019"
+      "target": "2019",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/inchi13/html/home.html",
@@ -261,7 +299,8 @@
       "desc": "13인치 자체 서비스 13인치 UI개발",
       "skill": "HTML5 / CSS3 / Jquery",
       "date": "2018.03 ~ 2018.08",
-      "target": "2018"
+      "target": "2018",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/korea-flag/korea-flag.html",
@@ -269,7 +308,8 @@
       "title": "태극기",
       "desc": "HTML / CSS 로 제작한 태극기 - 2018.02.25",
       "skill": "HTML5 / CSS3",
-      "target": "2018"
+      "target": "2018",
+      "noneCode": false
     },
     {
       "url": "https://display.cjonstyle.com/p/homeTab/main?hmtabMenuId=003147&rPIC=homeonstyle",
@@ -278,7 +318,8 @@
       "desc": "CJ 오쇼핑",
       "skill": "HTML5 / sass",
       "date": "2017.06 ~ 2017.10",
-      "target": "2017"
+      "target": "2017",
+      "noneCode": false
     },
     {
       "url": "https://limssong.github.io/portfolio1/hobbyful/html/main.html",
@@ -287,7 +328,8 @@
       "desc": "취미를 쉽게 배우는 hobbyful",
       "skill": "HTML5 / CSS3 / Javascript",
       "date": "2017.01 ~ 2017.04",
-      "target": "2017"
+      "target": "2017",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/loungef/html/home_new.html",
@@ -296,7 +338,8 @@
       "desc": "입어보고 구매하는 편집샵 LOUNGE.F UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
       "date": "2012.12 ~ 2015.08",
-      "target": "2015"
+      "target": "2015",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/selleradmin/html/login.html",
@@ -305,7 +348,8 @@
       "desc": "입어보고 구매하는 편집샵 라운지에프 어드민 UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
       "date": "2012.12 ~ 2015.08",
-      "target": "2015"
+      "target": "2015",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/socialVoting/html/index.html",
@@ -314,7 +358,8 @@
       "desc": "사용자로 하여금 A vs B 상품을 투표하여 소비자 반응도 조사하고 쿠폰발급으로 구매까지 독려하는 카페24 앱 UI개발. 유료앱으로 런칭하였으나 대 실패",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
       "date": "2012.12 ~ 2015.08",
-      "target": "2014"
+      "target": "2014",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/socialreview/html/socialReview.html",
@@ -323,7 +368,8 @@
       "desc": "리뷰 작성 도구인 소셜리뷰 UI개발. 어느 사이트나 쉽게 삽입하여 리뷰작성할 수 있도록 도와주는 툴. 당시 카페24 무료앱 탑3",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
       "date": "2012.12 ~ 2015.08",
-      "target": "2014"
+      "target": "2014",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/newviewreple/html/home.html",
@@ -332,7 +378,8 @@
       "desc": "리뷰 모아보는 사이트 뷰리플 UI개발. 미디어쿼리 사용으로 웹 / 모바일 대응",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
       "date": "2012.12 ~ 2015.08",
-      "target": "2013"
+      "target": "2013",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/company/html/company_about.html",
@@ -341,7 +388,8 @@
       "desc": "뷰리플 회사홈페이지 UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
       "date": "2012.12 ~ 2015.08",
-      "target": "2013"
+      "target": "2013",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/viewreple/html/main_renewal_m.html",
@@ -350,7 +398,8 @@
       "desc": "[모바일] 리뷰 모아보는 사이트 뷰리플 UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
       "date": "2012.12 ~ 2015.08",
-      "target": "2013"
+      "target": "2013",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/viewreple/html/main_renewal.html",
@@ -359,7 +408,8 @@
       "desc": "[웹] 리뷰 모아보는 사이트 뷰리플 UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
       "date": "2012.12 ~ 2015.08",
-      "target": "2013"
+      "target": "2013",
+      "noneCode": false
     },
     {
       "url": "http://limssong84.mireene.com/easyCall/index.html",
@@ -367,7 +417,8 @@
       "title": "EasyCall 개발",
       "desc": "개인적으로 제작해본 쉽게 전화걸기 웹앱",
       "skill": "HTML5 / CSS3 / JqueryMobile",
-      "target": "2012"
+      "target": "2012",
+      "noneCode": false
     },
     {
       "url": "http://goo.gl/svQ6gu",
@@ -376,7 +427,8 @@
       "desc": "단위환산 / 환율 / 계산기 / 증권 / 해외증시 / 올림픽 토픽 UI개발. 2012.04 총선 토픽 UI개발 :  선거구 찾기 지도 서비스 포함된 총선 토픽 UI개발",
       "skill": "HTML / CSS / Photoshop",
       "date": "2009.02 ~ 2012.10",
-      "target": "2012"
+      "target": "2012",
+      "noneCode": false
     },
     {
       "url": "https://keywordshop.nate.com/",
@@ -385,7 +437,8 @@
       "desc": "소셜광고 UI개발",
       "skill": "HTML / CSS / Photoshop",
       "date": "2009.02 ~ 2012.10",
-      "target": "2010"
+      "target": "2010",
+      "noneCode": false
     },
     {
       "url": "http://adguide.nate.com/",
@@ -394,7 +447,8 @@
       "desc": "DA광고 UI개발",
       "skill": "HTML / CSS / Photoshop",
       "date": "2009.02 ~ 2012.10",
-      "target": "2010"
+      "target": "2010",
+      "noneCode": false
     },
     {
       "url": "http://www.skcomms.co.kr/",
@@ -403,7 +457,8 @@
       "desc": "SK Communications 회사소개 페이지 UI개발",
       "skill": "HTML / CSS / Photoshop",
       "date": "2009.02 ~ 2012.10",
-      "target": "2009"
+      "target": "2009",
+      "noneCode": false
     },
     {
       "url": "#",
@@ -412,7 +467,8 @@
       "desc": "네이트 회원빌링 UI개발. 서비스 종료로 포트폴리오 없음.",
       "skill": "HTML / CSS / Photoshop",
       "date": "2009.02 ~ 2012.10",
-      "target": "2011"
+      "target": "2011",
+      "noneCode": false
     },
     {
       "url": "#",
@@ -421,7 +477,8 @@
       "desc": "사이좋은 세상 UI개발. 서비스 종료로 포트폴리오 없음.",
       "skill": "HTML / CSS / Photoshop",
       "date": "2009.02 ~ 2012.10",
-      "target": "2011"
+      "target": "2011",
+      "noneCode": false
     },
     {
       "url": "http://fifanet.kr/",
@@ -429,7 +486,8 @@
       "title": "피파온라인3 정보공유",
       "desc": "피파온라인3 정보공유 웹/모바일 UI개발",
       "skill": "HTML5 / CSS3 / Javascript / Photoshop",
-      "target": "2016"
+      "target": "2016",
+      "noneCode": false
     }
   ]
 }
