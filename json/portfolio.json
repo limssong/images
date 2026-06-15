@@ -3,6 +3,16 @@
   "myPortfolio" : 
   [
     {
+      "url": "https://www.treasuremap.co.kr/",
+      "imgUrl": "https://limssong.github.io/images/thumb/treasuremap.png",
+      "title": "보물여지도 feat.보물사냥꾼",
+      "desc": "보물여지도 feat.보물사냥꾼 서비스",
+      "skill": "claudeCode / supabase / Vercel",
+      "date": "2026.06.15",
+      "target": "2026",
+      "noneCode": false
+    },
+    {
       "url": "https://with-ten.vercel.app/",
       "imgUrl": "https://limssong.github.io/images/thumb/with.png",
       "title": "함께 뛰는 러닝 With",
